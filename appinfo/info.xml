@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<info xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+    <id>rtl</id>
+    <name>RTL</name>
+    <summary>Make apps to support RTL - Right To Left</summary>
+    <description>
+Make apps to support RTL - Right To Left
+
+## Set the text direction for all the apps
+
+Go to the Admin settings > Additional settings and choice the text direction to rtl.
+    </description>
+    <category>customization</category>
+    <version>0.1.0</version>
+    <licence>agpl</licence>
+    <author mail="hagay.asaban@gmail.com">Hagai Asaban</author>
+    <dependencies>
+        <nextcloud min-version="12" max-version="13" />
+    </dependencies>
+    <namespace>RTL</namespace>
+    <repository type="git">https://github.com/HagaiAS/rtl.git</repository>
+    <bugs>https://github.com/HagaiAS/rtl/issues</bugs>
+</info>
+

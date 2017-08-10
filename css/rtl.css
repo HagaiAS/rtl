@@ -1,0 +1,74 @@
+
+#body-user {
+	direction: rtl !important;	
+}
+
+#app-navigation {
+	float: right !important;
+}
+
+#app-navigation .app-navigation-entry-utils {
+	left: 0 !important;
+    right: auto !important;
+}
+
+.app-content-detail {
+	left: 0 !important;
+    right: auto !important;
+}
+
+detailsitem .item-action {
+    right: auto !important;
+    left: 30px !important;
+}
+
+select {
+	padding-left: inherit !important;
+    padding-right: 24px !important;
+}
+
+#new-contact-button {
+    text-align: right !important;
+    padding-right: 34px !important;
+	padding-left: inherit !important;
+}
+
+#expanddiv {
+    left: 13px !important;
+	right: auto !important;
+}
+
+#expanddiv:after {
+    left: 13px !important;
+	right: auto !important;
+}
+
+#contactsmenu > .menu {
+    left: 13px !important;
+	right: auto !important;
+}
+
+#contactsmenu > .menu::after {
+    left: 61px !important;
+	right: auto !important;
+}
+
+#contactsmenu > .menu .contact .body {
+    padding-left: inherit !important;
+    padding-right: 8px !important;
+}
+
+.notification-container {
+    left: 13px !important;
+    right: auto !important;
+}
+
+.notification-container {
+    left: 13px !important;
+    right: auto !important;
+}
+
+.notification-container:after {
+    left: 101px !important;
+    right: auto !important;
+}
